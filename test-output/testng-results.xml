@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="876" started-at="2016-05-31T15:27:29Z" finished-at="2016-05-31T15:27:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="876" started-at="2016-05-31T15:27:29Z" finished-at="2016-05-31T15:27:30Z">
+      <class name="test.HomepageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.HomepageTest@d041cf]" name="openBrowser" is-config="true" duration-ms="26561" started-at="2016-05-31T20:57:03Z" finished-at="2016-05-31T20:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="printingAllHeaderLinks()[pri:0, instance:test.HomepageTest@d041cf]" name="printingAllHeaderLinks" duration-ms="863" started-at="2016-05-31T20:57:29Z" finished-at="2016-05-31T20:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printingAllHeaderLinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.HomepageTest@d041cf]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2016-05-31T20:57:30Z" finished-at="2016-05-31T20:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
